@@ -64,10 +64,17 @@ Minha experiência com `Figma` e `Canva` me permite entender melhor a jornada do
 </br></br></br></br>
 
 ---
-<<<<<<< HEAD
+
 ### Susuwataris estão em obras
-=======
->>>>>>> cb6da4f034223fe5af4c1e7ef85e8b923fd058b1
+
+<div align="center">
+
+<p align="center">
+  <img src="assets/Susuwataris com carvao.gif" width="900px" height="200px" alt="Susuwatari">
+</p>
+</div>
+
+Daqui alguns dias, o README vai está pronto!
 
 ---
 
@@ -76,9 +83,8 @@ Minha experiência com `Figma` e `Canva` me permite entender melhor a jornada do
 <p align="center">
   <img src="assets/Susuwatari.jpeg" width="900px" height="200px" alt="Susuwatari" />
 </p>
-<<<<<<< HEAD
+
 
 <!-- Statistics -->
 ### Estatísticas
-=======
->>>>>>> cb6da4f034223fe5af4c1e7ef85e8b923fd058b1
+
