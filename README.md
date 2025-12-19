@@ -80,3 +80,6 @@ Minha experiência com `Figma` e `Canva` me permite entender melhor a jornada do
 <p align="center">
   <img src="assets/Susuwatari.jpeg" width="900px" height="200px" alt="Susuwatari" />
 </p>
+
+<!-- Statistics -->
+### Estatísticas
