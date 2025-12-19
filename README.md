@@ -54,24 +54,17 @@ Minha experiência com `Figma` e `Canva` me permite entender melhor a jornada do
 
 **Fale comigo:**
 
-  <a href="www.linkedin.com/in/anabeatrizdp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anabeatrizdp2@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-</div>
+<a href="https://www.linkedin.com/in/anabeatrizdp" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:anabeatrizdp2@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </br></br></br></br>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-</picture>
+### Susuwataris estão em obras
 
 ---
 
