@@ -47,9 +47,10 @@ Minha experiência com `Figma` e `Canva` me permite entender melhor a jornada do
 <div align="justify">
     
 ### Um pouco mais sobre mim! 
-Eu sou uma pessoa com Deficiência auditiva🦻
-Eu amo A Viagem do Chiriro e O Castelo animado! Amo ler livros📚, como fantasia🧚‍♀️✨ 
-Gosto de jogar Genshin Impact!🎮
+• Eu sou uma pessoa com Deficiência auditiva🦻</br>
+• Eu amo A Viagem do Chiriro e O Castelo animado!</br>
+• Amo ler livros📚, como fantasia🧚‍♀️✨</br>
+• Gosto de jogar Genshin Impact!🎮</br>
 
 **Fale comigo:**
 
@@ -66,10 +67,18 @@ Gosto de jogar Genshin Impact!🎮
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <div align="center">
 
 <p align="center">
-  <img src="assets/Susuwatari.jpeg" width="200px" height="100px" alt="Shy Cat" />
+  <img src="assets/Susuwatari.jpeg" width="900px" height="200px" alt="Susuwatari" />
 </p>
 
 <!-- Statistics -->
